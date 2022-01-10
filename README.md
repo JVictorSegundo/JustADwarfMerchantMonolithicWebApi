@@ -1,7 +1,7 @@
 # Thorkyl Alaf - O Mercador Anão Da Cidade de Aventureiros Iniciantes de MonteReal [Just A Dwarf Merchant Monolithic WebApi]
 Como o nome já diz, essa é uma api simples, monolítica e bastante visual onde tentei transformar um anão mercador grosseiro em um web api ao estilo de RPGs antigos, como WOW e DnD. Minha proposta aqui foi extrair ao máximo do que a ASP.Net como framework tem pra oferecer. Nada de arquitetura em camadas, metodos assíncronos ou domínios ricos, apenas o mais simples nessessário, nada além disso. 
 
-Para projeto mais complexos (e sérios) visite meus outros repositórios aqui no Git.
+Para projetos mais complexos (e sérios) visite meus outros repositórios aqui no Git.
 
 OBS : Projeto feito em 5 horas (um final de semana de tédio), por isso há muito o que refatorar... Mas como eu me diverti tanto fazendo e o resultado final ficou melhor do que eu esperava (mesmo usando Try&Catch como parte da validação), eu resolvi criar um espaço especial aqui no meu Git só pra ela. 
 
