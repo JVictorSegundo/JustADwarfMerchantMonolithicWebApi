@@ -3,7 +3,7 @@ Como o nome já diz, essa é uma api simples, monolítica e bastante visual onde
 
 Para projetos mais complexos (e sérios) visite meus outros repositórios aqui no Git.
 
-OBS : Projeto feito em +ou- 5 horas (um final de semana de tédio), por isso há muito o que refatorar... Mas como eu me diverti tanto fazendo e o resultado final ficou melhor do que eu esperava (mesmo usando Try&Catch como parte da validação), eu resolvi criar um espaço especial aqui no meu Git só pra ela. 
+OBS : Projeto feito em +ou- um final de semana (de tédio) , por isso há muito o que refatorar... Mas como eu me diverti tanto fazendo e o resultado final ficou melhor do que eu esperava (mesmo usando Try&Catch como parte da validação), eu resolvi criar um espaço especial aqui no meu Git só pra ela. 
 
 [Visão Geral]
 ![image](https://user-images.githubusercontent.com/95879558/148713729-b04b1334-ad1a-4287-90ee-d0116e9e0bd8.png)
